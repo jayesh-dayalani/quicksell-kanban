@@ -1,10 +1,10 @@
 // Import necessary modules and components
 import React, { Component } from 'react';
 import List from "./List"; // Import List component
-import { cards } from './data'; // Import cards from data file
+// import { cards } from './data'; // Import cards from data file
 import { data } from './api-data'; // Import data from api-data file
-import { ReactComponent as Controls } from './icons/controls.svg'; // Import Controls SVG icon
-import Form from "./Form"; // Import Form component
+// import { ReactComponent as Controls } from './icons/controls.svg'; // Import Controls SVG icon
+// import Form from "./Form"; // Import Form component
 import "./app.css"; // Import app CSS styles
 
 // Define the main App component
